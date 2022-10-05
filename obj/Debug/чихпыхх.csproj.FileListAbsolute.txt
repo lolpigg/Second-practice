@@ -1,0 +1,8 @@
+C:\Users\igosh\source\repos\чихпыхх\bin\Debug\чихпыхх.exe.config
+C:\Users\igosh\source\repos\чихпыхх\bin\Debug\чихпыхх.exe
+C:\Users\igosh\source\repos\чихпыхх\bin\Debug\чихпыхх.pdb
+C:\Users\igosh\source\repos\чихпыхх\obj\Debug\чихпыхх.csproj.AssemblyReference.cache
+C:\Users\igosh\source\repos\чихпыхх\obj\Debug\чихпыхх.csproj.SuggestedBindingRedirects.cache
+C:\Users\igosh\source\repos\чихпыхх\obj\Debug\чихпыхх.csproj.CoreCompileInputs.cache
+C:\Users\igosh\source\repos\чихпыхх\obj\Debug\чихпыхх.exe
+C:\Users\igosh\source\repos\чихпыхх\obj\Debug\чихпыхх.pdb
